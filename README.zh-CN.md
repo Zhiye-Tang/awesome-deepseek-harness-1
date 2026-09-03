@@ -1981,6 +1981,7 @@ _插件市场、安装管理器、索引与生态工具。_
 
 _把数据 / 结果变成图表、图形、看板的插件。_
 
+- [weibo-wallpaper-dsh](https://github.com/Zhiye-Tang/weibo-wallpaper-dsh-plugin) — 把微博博主相册/微博媒体变成 DSH Web 界面壁纸:按天幂等同步、按月归档、当年历史自动回填、多博主、三种显示模式,控制条常驻,无需刷新。`dsh-plugin`
 - [GooDAnDReaDY/dsh-image-gen](https://github.com/GooDAnDReaDY/dsh-image-gen) —— 面向 DeepSeek Harness 的图像生成与视觉处理套件：可插拔供应商（FAL、Replicate、OpenAI、ChatGPT Plus、Grok、ComfyUI、SeaDream、Gemini），工具（remove_background、upscale_image、vectorize_image、blend_images）、风格预设与聊天卡片。
 - [exoticknight/dsh-labnana](https://github.com/exoticknight/dsh-labnana) —— DeepSeek Harness (dsh) 插件：在会话里直接生成图片 —— 集成 Labnana 图片生成 OpenAPI，支持文生图/图生图/精准编辑，生成结果直接在对话流展示，可一键保存到当前项目。支持 NanoBanana Pro、Gemini 3.1 Flash Image、GPT-Image-2、Wan2.7 Image/Pro、Seedream 5.0 Pro。
 - [hherosoul/dsh-smart-charts](https://github.com/hherosoul/dsh-smart-charts) —— DeepSeek Harness 的智能图表插件。
